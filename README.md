@@ -422,6 +422,14 @@ Current limitations include:
 - **Arya Sharma** — Data Engineering
 - **Alisha Savant** — Machine Learning & Evaluation
 
+## Licensing
+
+The source code in this repository is licensed under the Apache License 2.0.
+
+Third-party datasets, pretrained models, and external assets remain subject to
+their respective licenses and terms of use. Model weights may be distributed
+separately where licensing permits.
+
 ---
 
 ## Achievement
